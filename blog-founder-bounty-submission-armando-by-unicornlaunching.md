@@ -23,4 +23,6 @@ What excuses do you have now? This was done in a couple of hours over TwitterSpa
 
 [![Listen to it get built in real-time on TwitterSpaces](https://github.com/unicornlaunching/hackgpt/raw/main/Screen%20Shot%202023-05-07%20at%206.04.50%20PM.png)](https://twitter.com/i/spaces/1rmxPkeLlBDJN?s=20)
 
+## Pricing for SocialIntents.com
 
+[![Pricing for SocialIntents](https://pbs.twimg.com/media/FvjopblWwAAlXH5?format=jpg&name=medium)](https://www.socialintents.com)

@@ -6,7 +6,7 @@
 
 ## Let's take a look at how UnicornLaunching solved it.
 
-[![Founder Bounty by Armando]([https://github.com/unicornlaunching/hackgpt/raw/main/Screen%20Shot%202023-05-07%20at%205.55.33%20PM.png)](https://www.youtube.com/watch?v=SfWzX1mPrds)
+[![Founder Bounty by Armando](https://github.com/unicornlaunching/hackgpt/raw/main/Screen%20Shot%202023-05-07%20at%205.57.08%20PM.png)](https://www.youtube.com/watch?v=SfWzX1mPrds)
 
 ## Stack
 

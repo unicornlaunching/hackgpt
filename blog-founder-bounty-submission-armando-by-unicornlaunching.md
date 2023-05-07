@@ -1,6 +1,6 @@
 # ChurchChat | A Founder Bounty response by UnicornLaunching
 
-## Let's take a look at the Founder Bounty.
+## Let's take a look at the Founder Bounty. Each of the pictures below can be clicked to reveal a video.
 
 [![Founder Bounty by Armando](https://github.com/unicornlaunching/hackgpt/raw/main/Screen%20Shot%202023-05-07%20at%205.55.33%20PM.png)](https://youtube.com/shorts/h-zzCEotDS8?feature=share)
 
@@ -16,3 +16,7 @@ OpenAI.com for LLM integrated with Socialintents.com for chatbot-as-a-service po
 - Low Total Cost of Ownership
 - Free Trial for http://socialintents.com
 - 1 Line of Code; 30-minute implementation
+
+What excuses do you have now? This was done in a couple of hours over TwitterSpaces.
+
+You can listen to the recording here (jump about an hour in): [Listen to it get built](https://twitter.com/i/spaces/1rmxPkeLlBDJN?s=20)

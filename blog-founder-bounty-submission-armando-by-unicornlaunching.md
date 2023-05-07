@@ -19,4 +19,8 @@ OpenAI.com for LLM integrated with Socialintents.com for chatbot-as-a-service po
 
 What excuses do you have now? This was done in a couple of hours over TwitterSpaces.
 
-You can listen to the recording here (jump about an hour in): [Listen to it get built](https://twitter.com/i/spaces/1rmxPkeLlBDJN?s=20)
+## Listen into the conversation and hear it get built in real-time
+
+[![Listen to it get built in real-time on TwitterSpaces](https://github.com/unicornlaunching/hackgpt/raw/main/Screen%20Shot%202023-05-07%20at%206.04.50%20PM.png)](https://twitter.com/i/spaces/1rmxPkeLlBDJN?s=20)
+
+

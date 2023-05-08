@@ -1,5 +1,7 @@
 # How Might We Bring AI In-House?
 
+TL;DR Protecting your data will be a challenge you'll fail to conquer in the end....but that doesn't mean you can't be compliant :P
+
 ## It's all fun and games until you realize Cambridge Analytica was selling your data THE WHOLE MOVIE.
 
 Is security and privacy a pipe dream given that we're vectorizing our trade secrets?
@@ -64,6 +66,6 @@ Your ACL will help you determine:
 - What should be kept in-house
 - What doesn't need to be kept in-house
 
-For more information about how to tackel this challenge - and it will be a challenge you'll fail to conquer in the end.
+For more information about how to tackle this challenge - and it will be a challenge, come to the Hackathon.
 
-But at least you'll be compliant.
+Protecting your data will be a challenge you'll fail to conquer in the end....but that doesn't mean you can't be compliant :P
